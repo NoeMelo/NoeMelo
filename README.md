@@ -4,7 +4,7 @@
 - 📚 I'm currently learning Big Data processing with Spark
 - 🚀 I have worked on machine learning projects
 - 💬 Ask me on my LinkedIn [NoeMeloLocumber](https://www.linkedin.com/in/noemelolocumber/)
-- 🚵 My funny moments on my Instagram [@noemelolocumber](https://www.instagram.com/noemelolocumber/)
+- 🚵 My Instagram [@noemelolocumber](https://www.instagram.com/noemelolocumber/)
 ### Programming Languages and Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
