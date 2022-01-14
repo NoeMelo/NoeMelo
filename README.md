@@ -3,6 +3,7 @@
 - 👩‍💻 I'm currently working on something cool!
 - 📚 I'm currently learning Big Data processing with Spark
 - 🚀 I have worked on machine learning projects
+- 📜 Read my paper [Machine Learning Techniques for Speech Emotion Classification](https://link.springer.com/chapter/10.1007/978-3-030-76228-5_6/)
 - 💬 Ask me on my LinkedIn [NoeMeloLocumber](https://www.linkedin.com/in/noemelolocumber/)
 - 🚵 My Instagram [@noemelolocumber](https://www.instagram.com/noemelolocumber/)
 ### Programming Languages and Tools 🛠
