@@ -21,3 +21,6 @@
 ![Git](https://img.shields.io/badge/-Git-EC7063?logo=Git&logoColor=white&style=flat-square)
 ![MySql](https://img.shields.io/badge/-MySql-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
+### My Github Stats 📊
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noemelo&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noemelo&show_icons=true&theme=tokyonight)
