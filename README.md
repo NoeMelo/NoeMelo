@@ -5,6 +5,11 @@
 - 🚀 I have worked on machine learning projects
 - 💬 Ask me on my LinkedIn [NoeMeloLocumber](https://www.linkedin.com/in/noemelolocumber/)
 - 🚵 My funny moments on my Instagram [@noemelolocumber](https://www.instagram.com/noemelolocumber/)
-### Programming Languages
+### Programming Languages and Tools 🛠
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat-square)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=Cplusplus&logoColor=white&style=flat-square)
